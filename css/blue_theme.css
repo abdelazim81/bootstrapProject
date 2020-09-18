@@ -1,0 +1,44 @@
+/******* Default theme ********/
+
+
+
+/* GROUP FOR PURPLE BACKGROUND */
+.ab, .navbar-dark .navbar-nav .show > .nav-link,
+.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .nav-link.active, .dropdown-item:hover,
+.carousel-indicators .active,  .carousel-control-prev-icon:hover, .carousel-control-next-icon:hover,
+.carousel-indicators li, .option-box .gear-check, #top-scroll
+{
+    background-color: #33A3FF;
+}
+
+
+
+/* GROUP FOR PURPLE COLOR */
+span, .footer h3, .footer .last-footer span{
+    color: #33A3FF;
+}
+
+
+
+
+
+.navbar-brand{
+    text-shadow: 2px 2px 5px #33A3FF;
+}
+
+
+.dropdown-menu{
+    border-top: 2px solid #33A3FF;
+}
+
+
+
+
+
+.option-box .color-option{
+    border: 2px solid #33A3FF;
+}
+
+

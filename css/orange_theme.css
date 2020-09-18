@@ -1,0 +1,44 @@
+/******* Default theme ********/
+
+
+
+/* GROUP FOR RED BACKGROUND */
+.ab, .navbar-dark .navbar-nav .show > .nav-link,
+.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .nav-link.active, .dropdown-item:hover,
+.carousel-indicators .active,  .carousel-control-prev-icon:hover, .carousel-control-next-icon:hover,
+.carousel-indicators li, .option-box .gear-check, #top-scroll
+{
+    background-color: #e4cb61;
+}
+
+
+
+/* GROUP FOR RED COLOR */
+span, .footer h3, .footer .last-footer span{
+    color: #e4cb61;
+}
+
+
+
+
+
+.navbar-brand{
+    text-shadow: 2px 2px 5px #e4cb61;
+}
+
+
+.dropdown-menu{
+    border-top: 2px solid #e4cb61;
+}
+
+
+
+
+
+.option-box .color-option{
+    border: 2px solid #e4cb61;
+}
+
+

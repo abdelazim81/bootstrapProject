@@ -1,0 +1,32 @@
+/* SMART PHONES AND TABLETS*/
+@media (max-width: 768px){
+    
+    .navbar-expand-sm .navbar-nav .nav-link{padding-bottom: 2px;padding-top: 2px;}
+    .carousel{display: none;}
+    .testimonials{display: none;}
+}
+
+
+
+/*SMALL SCREEN*/
+@media (min-width: 769px) and (max-width: 991px){
+    
+    
+}
+
+
+
+/*MEDUIM SCREENS*/
+@media (min-width: 992px) and (max-width: 1199px){
+    
+}
+
+
+
+
+/*LARGE SCREEN*/
+@media (min-width: 1200px){
+    .navbar-expand-sm .navbar-nav .nav-link{
+        padding: 15px;
+    }
+}
